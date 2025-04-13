@@ -1,0 +1,16 @@
+body {
+    font-family: Arial,sans-serif;
+    background-image: url('/static/background.jpg');
+    background-position: center;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #0d00fd;
+}
+
+p {
+    font-size: 20px;
+    color: #7ee920;
+}
